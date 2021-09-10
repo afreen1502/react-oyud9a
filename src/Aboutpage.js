@@ -8,7 +8,7 @@ const Aboutpage = () => {
         {' '}
         Lorum Ipsum Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
         sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
-        erat volutpat.
+        erat volutpat testing.
       </p>
       <img
         src="https://images.ctfassets.net/7rifqg28wcbd/1tFsF7cjjNpwaLC3AKwtu7/3709b2fab644d1c377323faf87f300f9/headergrad_onwhite.jpg"
